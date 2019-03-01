@@ -10,8 +10,8 @@ With the project complete, the LCD can be drawn on while allowing the HBLED to c
 flash. In addition to this, the brightness of the flash can be altered by adjusting where the screen
 is touched on the lower end near the “Dim / Bright” display string.
 
-The base code was supplied by Dr. Dean Alexander from NCSU, and the objective was to modify the code
-base in order to achieve the desired outcome. The files I primarliy worked in were:
+The base code was supplied by Dr. Alexander Dean from North Carolina State University. The objective
+was to modify the code base in order to achieve the desired outcome. The files I primarliy worked in were:
 - debug.h
 - my_data.h
 - main.c
